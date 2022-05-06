@@ -1,2 +1,2 @@
-# L2Hackathon-MHS
+# L2Hackathon-Together
 L2 Hackathon Submission Repo
